@@ -1,2 +1,5 @@
-# extractioner
-Extract the links from text files
+# usage
+
+```
+cat file.txt | ./extractioner.sh > output.txt
+```
